@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @goutarouh
-- 👀 I’m interested in Android and Golang and TOEIC and Muscle trainging✊
-- 🌱 I’m currently learning Jetpack compose!!!(android)
+- 👀 I'm 23.
+- 🌱 I like to develop Android App and Kotlin!
 
 <!---
 goutarouh/goutarouh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
