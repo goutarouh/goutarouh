@@ -1,8 +1,39 @@
-- 👋 Hi, I’m @goutarouh
-- 👀 I'm 23.
-- 🌱 I like to develop Android App and Kotlin!
+# 基本情報
 
-<!---
-goutarouh/goutarouh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+|  |  |
+|:---|:---:|
+|氏名|長谷川剛太(ハセガワゴウタ|
+|年齢|24|
+|居住地|東京|
+|出身地|北海道(育ちは東京)|
+|趣味|バイク、個人開発(Androidアプリ)、海外サッカー観戦(オンライン)|
+|小中高の部活|サッカー部|
+|好きな食べ物|サーモン！！！|
+|資格など|普通自動車第一種運転免許、普通自動二輪車免許、TOEIC(825)|
+|やりたいこと|大学院でCSの学位を取りたい、バイクで日本一周したい|
+
+
+# 開発情報
+
+|  |  |
+|:---|:---:|
+|コーディング経験|Android開発(2.5年), Python(4年)|
+|好きな領域|Android開発(モバイルアプリ開発)、競プロ|
+|好きな言語|Kotlin(Java), Python|
+|興味のある領域|ios開発(モバイルアプリ開発)|
+|経験技術流域| Android関連, GCP, Heroku, DB(PostgreSQL), Docker, Jenkins|
+|その他|Vimmerです|
+
+# 経歴
+
+|  |  |
+|:---|:---:|
+|2016年4月|立教大学理学部物理学科入学|
+|2020年3月|立教大学理学部物理学科卒業|
+|2020年4月|株式会社ジャストシステム入社|
+|2022年6月現在|現在に至る|
+
+
+
+# その他のお飾り
+![goutarouh's github stats](https://github-readme-stats.vercel.app/api?username=goutarouh)
